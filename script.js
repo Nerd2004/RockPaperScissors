@@ -68,5 +68,6 @@ end.onclick = () => {
     score.innerText='';
     currscore.innerText='';
     hands.innerText = '';
+    score = 0;
 }
 
